@@ -30,12 +30,3 @@ java OnlineShop
 
 Якщо в консолі замість літер знаки питання: `java -Dstdout.encoding=UTF-8 OnlineShop`
 
-## Структура
-
-```
-.
-├── src/
-│   └── OnlineShop.java
-├── .gitignore
-└── README.md
-```
